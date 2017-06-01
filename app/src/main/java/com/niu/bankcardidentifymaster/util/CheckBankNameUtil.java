@@ -31,7 +31,7 @@ public class CheckBankNameUtil {
     private List<BankCardInfoPatten> bankInfos;
 
     /**
-     * 只是别前几位的
+     * 只识别前几位的
      * @param context
      * @param cardNum
      * @return
